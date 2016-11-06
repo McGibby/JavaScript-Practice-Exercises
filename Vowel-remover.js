@@ -9,5 +9,4 @@ function shortcut(word){
 		console.log(word);
 }
 
-
 shortcut('goodbye'); 
