@@ -18,7 +18,7 @@ if (guess==number){
 while(guess){
     guesses();
 }
-
+//-------------------------------------------------------------
 
 //Guess the number between 1-100 with number preset
 var number = 4;
@@ -39,6 +39,7 @@ if (guess==number){
 while(guess){
     guesses();
 }
+//-----------------------------------------------------------------
 
 //Guess the number between 1-100 with number preset and no loop
 var number=24
