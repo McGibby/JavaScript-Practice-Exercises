@@ -1,4 +1,4 @@
-//Print Fibonacci's number up to 1000
+//Print Fibonacci's number, stopping when reaching a number over 1000
 
 var number = 1;
 var newNumber = 1;
