@@ -1,4 +1,4 @@
-//calculates total amount saved including compound interest, based on current amount saved and added amount
+//calculates total amount saved including compound interest, based on current amount saved and added amount.
 
 function interest(currentSaved,newSaved){
 	var newTotal = currentSaved + newSaved;
